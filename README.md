@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @humensky
-- 👀 I’m interested in Data Science projects.
-- 🌱 I’m currently learning as much as I can about Python for Data Science.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Dev projects.
+- 🌱 I’m currently learning as much as I can about Javascript, React, etc. for Web Dev.
 - 📫 How to reach me ...
   > Please feel free to connect with me on LinkedIn https://www.linkedin.com/in/nicholashumensky or email me at nickhumensky@gmail.com
 
